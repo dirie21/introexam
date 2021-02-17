@@ -3,3 +3,24 @@ iam very happy to welcome yo to school
 tommorrow we will be having our orientation day
 everybody is required to come on time
 school fees is importanat factor to be considerd
+
+
+iam happy to see you in class
+# about me 
+iam diriye a student from UW finitech bootcamp
+to register vist [university of washinton](http://uw.edu)
+---------
+## where i live 
+i live in USA 
+![US Maps](http://www.clker.com/cliparts/u/R/l/u/6/C/united-states-map-with-states-hi.png)
+
+### what i do 
+iam astudent at UW finitech spring class i learn the following topics
+* python
+* git
+* machine learning
+* solidity
+
+here is the quote about class 
+> "this class was amazing!"
+everthing will be ok 
